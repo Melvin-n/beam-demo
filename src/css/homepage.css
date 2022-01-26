@@ -210,7 +210,7 @@
 }
 
 
-@media screen and (max-width: 999px) and (min-width: 601px) {
+@media screen and (max-width: 999px) and (min-width: 800px) {
 
     .game-brief {
        width: 18vw;
@@ -219,7 +219,7 @@
    
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 799px) {
     #hero-container {
         display: none;
     }
