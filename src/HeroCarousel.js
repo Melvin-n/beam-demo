@@ -28,8 +28,6 @@ export default function HeroCarousel() {
     }, 3000)
 
     
-
-    
      return (
         <div id='hero-container'>
             <h2 id='hero-header'>Featured Games</h2>

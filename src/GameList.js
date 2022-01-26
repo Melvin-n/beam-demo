@@ -1,5 +1,5 @@
 //import dependencies
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 
 //import css
 import './css/homepage.css'
