@@ -1,0 +1,49 @@
+[
+    {
+        "title" : "BlackWind",
+        "description" : "Blackwind is a top-down sci-fi action game that puts you in the shoes of a teenager trapped inside a prototype battle armor suit during an alien invasion. Face off against enemies, cut through their ranks, and fight back in a last-ditch attempt to stop a planetary invasion.",
+        "price" : 24.99,
+        "featured" : true,
+        "image" : "../gameImages/blackwind.jpg"
+    },
+
+    {
+        "title" : "Oxenfree II: Lost Signals",
+        "description" : "Five years after the events of OXENFREE, Riley returns to her hometown of Camena to investigate mysterious radio signals. What she finds is more than she bargained for.",
+        "price" : 28.50,
+        "featured" : true,
+        "image" : "../gameImages/oxenfree.jpg"
+    },
+
+    {
+        "title" : "Ghostwire: Tokyo",
+        "description" : "Tokyo is overrun by deadly supernatural forces, perpetrated by a dangerous occultist, causing Tokyo’s population to vanish in an instant. Ally with a powerful spectral entity on their quest for vengeance and master a powerful arsenal of abilities to unravel the dark truth behind the disappearance as you FACE THE UNKNOWN in Ghostwire: Tokyo.",
+        "price" : 31.99,
+        "featured" : true,
+        "image" : "../gameImages/ghostwire.png"
+    },
+
+    {
+        "title" : "Pokemon Legends: Arceus",
+        "description" : "Your adventure is set in the expansive natural majesty of the Hisui region, in an age long ago when it was rare for people and Pokémon to live in close harmony. In time, this land of Hisui will come to be called Sinnoh—a region you may know well. Mount Coronet rises from the center of the Hisui region, surrounded on all sides by areas with distinct environments. Each area is rich in its own natural features and plays host to different Pokémon ecosystems. One such area is the Obsidian Fieldlands, which is resplendent with gorgeous flowers and verdant vegetation—what’s more, it appears to teem with Pokémon that favor meadows and forests.",
+        "price" : 35.99,
+        "featured" : false,
+        "image" : "../gameImages/arceus.png"
+    },
+
+    {
+        "title" : "Elden Ring",
+        "description" : "Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between. In the Lands Between ruled by Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered. Marika's offspring, demigods all, claimed the shards of the Elden Ring known as the Great Runes, and the mad taint of their newfound strength triggered a war: The Shattering. A war that meant abandonment by the Greater Will.",    
+        "price" : 35.99,
+        "featured" : true,
+        "image" : "../gameImages/eldenring.jpg"
+    },
+
+    {
+        "title" : "Hollow Knight Silksong",
+        "description" : "Play as Hornet, princess-protector of Hallownest, and adventure through a whole new kingdom ruled by silk and song! Captured and brought to this unfamiliar world, Hornet must battle foes and solve mysteries as she ascends on a deadly pilgrimage to the kingdom’s peak. Hollow Knight: Silksong is the epic sequel to Hollow Knight, the award winning action-adventure. As the lethal hunter Hornet, journey to all-new lands, discover new powers, battle vast hordes of bugs and beasts and uncover ancient secrets tied to your nature and your past",
+        "price" : 19.99,
+        "featured" : false,
+        "image" : "../gameImages/hollowknight.jpg"
+    }
+]
