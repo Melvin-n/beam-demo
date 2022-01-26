@@ -210,16 +210,7 @@
 }
 
 
-@media screen and (max-width: 999px) and (min-width: 800px) {
-
-    .game-brief {
-       width: 18vw;
-       height: 40vh;
-   }
-   
-}
-
-@media only screen and (max-width: 799px) {
+@media screen and (max-width: 799px) {
     #hero-container {
         display: none;
     }
@@ -257,4 +248,14 @@
         color: white;
         font-size: 2vw;
     }
+}
+
+
+@media screen and (max-width: 999px) and (min-width: 800px) {
+
+    .game-brief {
+       width: 18vw;
+       height: 40vh;
+   }
+   
 }
