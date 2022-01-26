@@ -211,8 +211,34 @@
 
 
 @media screen and (max-width: 799px) {
-    #hero-container {
+    #hero-header  {
         display: none;
+    }
+
+    #carousel-image {
+        width: 100vw;
+        height: 40vh;
+    }
+
+    #hero-game-title {
+        font-size: 3vh;
+        
+    }
+
+    #hero-game-btn {
+        background-color: firebrick;
+        color: white;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        width: 30vw;
+        height: 10vh;
+        margin-top: 3vh;
+        font-size: 3vh;
+    }
+
+    #hero-container {
+        height: 65vh;
     }
 
     .game-brief {
